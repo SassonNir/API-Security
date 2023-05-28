@@ -8,7 +8,6 @@ Rashi Pachino, Noah Weiss, Nir Sasson
 
 Supervised by Prof. Amit Dvir and Dr. Ran Dubin
 
-**Develop patent pending API security mechanism algorithms.**
 ![classified](https://github.com/SassonNir/API-Security/assets/31435876/234cc97d-598f-4269-9216-d6c95310d121)
 
 > ## Disclaimer
