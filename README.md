@@ -1,7 +1,4 @@
-<!-- ![alt text](/images/arielcyberlogo.png) -->
-<p align="center">
-  <img src="images/arielcyberlogo.png" />
-</p>
+
 
 # **Ariel University API-Security Project**
 
